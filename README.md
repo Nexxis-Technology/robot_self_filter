@@ -1,5 +1,7 @@
 # robot_self_filter
 
+FORKED: nexxis-humble branches of v1.0.0 (humble)
+
 A ROS 2 package that filters robot body parts from point cloud data, enabling sensors to ignore the robot's own geometry during perception tasks.
 
 ## Overview
